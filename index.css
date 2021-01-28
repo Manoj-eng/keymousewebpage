@@ -64,5 +64,61 @@ body{
 .h1{
     text-align: center;
     color: #333;
+   
 }
+
+.cla{
+    background-image: url(https://www.keymouseit.com/images/team_back.jpg);
+    height: 100px;
+    background-size: 100% 100%;
+    margin-top: 40px;
+    margin-bottom: 50px;
+   
+   
+    
+}
+
+
+.at{
+    list-style-type: none;
+}
+
+.one{
+    font-size: 12px;
+    line-height: 30px;
+}
+
+.two{
+    font-size: 12px;
+    line-height: 30px;
+}
+
+
+.three{
+    font-size: 12px;
+    line-height: 30px;
+}
+
+.four{
+    font-size: 12px;
+    line-height: 30px;
+}
+
+
+.mt{
+    background-color: #333;
+}
+
+.social_icon a {
+    color: #fff;
+    text-decoration: none;
+    list-style: none;
+}
+
+.chan{
+    color: blanchedalmond;
+    padding-top: 20px;
+}
+
+
 
