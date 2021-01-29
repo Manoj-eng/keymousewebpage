@@ -120,5 +120,55 @@ body{
     padding-top: 20px;
 }
 
+.burger{
+    display: none;
+    position: fixed;
+    height: 300px;
+    background: #fff;
+    top: 0;
+    z-index: 999;
+}
 
 
+
+
+/* @media only screen and (min-width: 320px)  and (max-width: 767px)
+{
+
+    .M{
+        display: none;
+    }
+
+    .l{
+        margin-bottom: -30px;
+        margin-left: -20px;
+        margin-top: -110px;
+       
+    }
+
+    .typew{
+        padding-top: 20px;
+    }
+
+    .under{
+        padding-bottom: 20px;
+    }
+
+    .img-fluid{
+        height: 100px;
+        width: 100px;
+    
+    }
+
+   
+
+    .bground{
+        
+        height: 500px;
+        background: url("https://www.keymouseit.com/images/banner_back.jpg");
+        background-repeat: no-repeat;
+        background-size: 140% 100%;
+    
+    
+    }
+} */
